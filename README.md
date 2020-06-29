@@ -1,2 +1,3 @@
 # Code360-Code-Editor
-An online Code editor where you can write your HTML, CSS and JAVASCRIPT
+Code360 Code Editor is an online Code editor where you can write your HTML, CSS, JAVASCRIPT at the same time and see the output in real-time.
+
